@@ -1,6 +1,6 @@
 # Hi, I'm Angel 👋
 
-CS graduate (UAM Iztapalapa, Jan 2026) currently transitioning into full-stack web development. I'm building my way up through a structured roadmap while shipping real projects along the way.
+CS graduate (UAM Iztapalapa, DEC 2025) currently transitioning into full-stack web development. I'm building my way up through a structured roadmap while shipping real projects along the way.
 
 ---
 
