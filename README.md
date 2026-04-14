@@ -48,8 +48,7 @@ CS graduate (UAM Iztapalapa, DEC 2025) currently transitioning into full-stack w
 ✅ React (Vite)
 ✅ Next.js (App Router)
 ✅ Tailwind CSS
-🔄 TypeScript          ← in progress
-⬜ SQL + PostgreSQL
+🔄 SQL + PostgreSQL ← in progress
 ⬜ Prisma ORM
 ⬜ Authentication
 ⬜ Full-stack deployment (Vercel + Supabase)
